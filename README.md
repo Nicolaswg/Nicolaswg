@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently Studying at [Microverse](https://www.microverse.org/)
 
-- 🌱 I’m currently learning **JavaScrip, Ruby, Rails, React**
+- 🌱 I’m currently learning **JavaScript, Ruby, Rails, React**
 
-- 💬 Ask me about **UI Design, frontend, administration**
+- 💬 Ask me about **UI Design, frontend, time management**
 
 - 📫 How to reach me **Nigonbol123@gmail.com**
 
