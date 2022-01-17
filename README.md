@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Gonzalez</h1>
 <h3 align="center">A passionate future fullstack developer from Venezuela</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolaswg" alt="nicolaswg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="nicolaswg" /></a> </p>
 
 - 🔭 I’m currently Studying at [Microverse](https://www.microverse.org/)
 
