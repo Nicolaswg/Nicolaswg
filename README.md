@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **UI Design, frontend, backend, time management**
 
-- 📫 How to reach me **Nigonbol123@gmail.com**
+- 📫 How to reach me **Nigonbol123@gmail.com** - **[Linkedit](https://www.linkedin.com/in/nicolas-gonzalez-8623461a0/)** - **[Twitter](https://twitter.com/Nicolas54146830)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
