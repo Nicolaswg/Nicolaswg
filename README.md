@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Gonzalez</h1>
-<h3 align="center">A passionate future fullstack developer from Venezuela</h3>
+<h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolaswg" alt="nicolaswg" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Ruby, Rails, React**
 
-- 💬 Ask me about **UI Design, frontend, time management**
+- 💬 Ask me about **UI Design, frontend, backend, time management**
 
 - 📫 How to reach me **Nigonbol123@gmail.com**
 
