@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Gonzalez</h1>
 <h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolaswg" alt="nicolaswg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolaswg" alt="nicolaswg" /></a></p>
 
 - 🔭 I’m currently Studying at [Microverse](https://www.microverse.org/)
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **UI Design, frontend, backend, time management**
 
-- 📫 How to reach me **Nigonbol123@gmail.com** - **[Linkedit](https://www.linkedin.com/in/nicolas-gonzalez-8623461a0/)** - **[Twitter](https://twitter.com/Nicolas54146830)**
+- 📫 How to reach me: **Nigonbol123@gmail.com** - **[Linkedit](https://www.linkedin.com/in/nicolas-gonzalez-8623461a0/)** - **[Twitter](https://twitter.com/Nicolas54146830)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
