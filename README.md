@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolaswg" alt="nicolaswg" /></a></p>
 
-- 🔭 I’m currently Studying at [Microverse](https://www.microverse.org/)
+- 🔭 Graduated from [Microverse](https://www.microverse.org/)
 
 - 🌱 I’m currently learning **JavaScript, Ruby, Rails, React**
 
